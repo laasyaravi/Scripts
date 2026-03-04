@@ -1,4 +1,4 @@
-this is file1 content
-firstline
-this is secondline
+pwd
+ls -l
+date >> file1
 
